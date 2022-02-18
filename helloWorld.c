@@ -3,7 +3,7 @@
 
 
 int main(void) {
-if (puts("Merhaba, Dünya!") == EOF) {
+if (puts("Hello, world2!") == EOF) {
 return EXIT_FAILURE;
 // code here never executes
 }
